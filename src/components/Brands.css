@@ -1,0 +1,26 @@
+.brands {
+  background: white;
+  padding: 40px 80px;
+  text-align: center;
+}
+
+.brands-title {
+  color: #94a3b8;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 2px;
+  margin-bottom: 30px;
+}
+
+.brands-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 40px;
+}
+
+.brands-container span {
+  color: #64748b;
+  font-size: 18px;
+  font-weight: 600;
+}

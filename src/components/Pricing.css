@@ -1,0 +1,51 @@
+.pricing {
+  padding: 100px 80px;
+  background: #ffffff;
+  text-align: center;
+}
+
+.pricing-tag {
+  color: #14856d;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+.pricing h2 {
+  font-size: 42px;
+  margin: 20px 0 50px;
+}
+
+.pricing-cards {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+
+.price-card {
+  width: 280px;
+  background: #f8fafc;
+  padding: 40px 30px;
+  border-radius: 20px;
+  box-shadow: 0 10px 25px rgba(0,0,0,.08);
+}
+
+.price-card h1 {
+  font-size: 48px;
+  color: #14856d;
+  margin: 20px 0;
+}
+
+.price-card button {
+  width: 100%;
+  padding: 14px;
+  border: none;
+  border-radius: 30px;
+  background: #14856d;
+  color: white;
+  cursor: pointer;
+  margin-top: 25px;
+}
+
+.active {
+  transform: scale(1.05);
+}
