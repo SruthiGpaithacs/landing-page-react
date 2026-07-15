@@ -10,8 +10,7 @@ import Pricing from "./components/Pricing";
 import "./App.css";
 
 function App() {
-  return 
-  (
+  return (
     <>
       <Navbar />
       <Hero />
