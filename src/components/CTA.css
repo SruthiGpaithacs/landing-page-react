@@ -1,0 +1,29 @@
+.cta{
+    background:#14856d;
+    color:white;
+    text-align:center;
+    padding:100px 80px;
+}
+
+.cta h2{
+    font-size:48px;
+    margin-bottom:20px;
+}
+
+.cta p{
+    max-width:600px;
+    margin:auto;
+    line-height:1.8;
+    margin-bottom:40px;
+}
+
+.cta button{
+    background:white;
+    color:#14856d;
+    border:none;
+    padding:16px 36px;
+    border-radius:40px;
+    cursor:pointer;
+    font-size:17px;
+    font-weight:600;
+}
